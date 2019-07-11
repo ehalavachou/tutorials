@@ -3,6 +3,7 @@ title: UnicTutorial5_09072018 1803 update
 description: example
 tags: [products>sap-hana, topic>api, tutorial>beginner]
 primary_tag: tutorial:product/mobile
+author_name: Abdel DADOUCHE egergeg5566
 ---
 ### Time to Complete
 20 min
